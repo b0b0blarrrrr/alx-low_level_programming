@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
- * main - This is a C program that uses the printf function to print exactly
+ * main - A program that prints using the Printf function
  * Return: 0 (Success)
  */
+
 int main(void)
 {
 printf("with proper grammar, but the outcome is a piece of art,\n")
